@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primaryColor">#1D140C</color>
+    <color name="primaryLightColor">#171717</color>
+    <color name="primaryDarkColor">#000000</color>
+
+    <color name="secondaryColor">#00755E</color>
+    <color name="secondaryLightColor">#028C71</color>
+    <color name="secondaryDarkColor">#6400755E</color>
+
+    <color name="purple_200">#1D140C</color>
+    <color name="purple_500">#171717</color>
+    <color name="purple_700">#000000</color>
+    <color name="teal_200">#00755E</color>
+    <color name="teal_700">#028C71</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="shrine">#CA3782</color>
+    <color name="shrine_200">#d55f9b</color>
+    <color name="gray">#7E000000</color>
+    <color name="textColor">#999DA4</color>
+
+    <item name="cardBackground" type="color">#f6f6f6</item>
+    <color name="edittextColor">#DDDDDD</color>
+    <color name="stroke">#6B6968</color>
+    <color name="blue">#FF375BF1</color>
+    <color name="lightGray">#B2B2B2</color>
+
+    <color name="error_color">#F72400</color>
+    <color name="success_color">#64a338</color>
+    <color name="transparent">#00000000</color>
+</resources>
